@@ -28,8 +28,8 @@ GUI Version
 ![Screenshot (457)](https://github.com/Navid-Derakhshandeh/Knapsack/assets/111235264/61994aa3-d64d-4da0-9253-127dcda60a5c)
 
 only differences between console version and gui version is, i defined my variables as Double,
-instead of I define them as Integer.
-that reason i got different result. of course in calculation not in best combination of items.
+instead of I define them as Integer.that reason i got different result. 
+of course in calculation not in best combination of items.
 
 
 

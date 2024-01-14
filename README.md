@@ -29,7 +29,7 @@ GUI Version
 
 only differences between console version and gui version is, i defined my variables as Double,
 instead of I define them as Integer.that reason i got different result. 
-of course in calculation not in best combination of items.
+of course in calculation not in the best combination of items.
 
 
 
